@@ -61,6 +61,7 @@ controller = RandomController()
 request = network.reset()
 
 # Print the active targets
+print("Inactive targets:")
 for id, _ in enumerate(network.net.targets_active):
     if _ == 0:
         print(id)

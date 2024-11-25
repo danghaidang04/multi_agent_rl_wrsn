@@ -1,0 +1,10 @@
+- About the checkRL.py (something that isn't mentioned in the code)
+++ network is an object that is created by the class Network
+    ++ net is an attribute of the object network
+        ++ env (representing the simulation environment) is an attribute of net. evn has now property and timeout() method
+        ++ listNodes and listTarget
+        ++ method operate() that is used to operate the network
+++ mcs (Moblie Charger), is an instance of the class Mobile Charger
+    ++ location, cur_action_type, id
+
+- About the WRSN.py: a custom implementation of a Gym environment for simulating a Wireless Rechargeable Sensor Network (WRSN).
