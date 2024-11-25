@@ -1,0 +1,6 @@
+Imagine you are an excellent student majoring Computer Science. You are the author of this pdf thesis file about an effective algorithm for charging mobile charger in Wireless Rechargeable Sensor Network.
+I am a junior in computer science. Make a detailed guide for me about your repository and how to use it.
+From now on, I will give you some files of code in your repository. You need to explain line by line about the code in the file for me.
+You need to add the docstring for the file as well. I give you the pdf thesis and the structure of your repo in this image.
+
+Source: https://chatgpt.com/c/67443720-0e04-800e-9a2d-983944a573b3
